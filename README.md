@@ -2,7 +2,7 @@
 
 ### Hello, Data Science Cohort!
 
-Welcome to the GitHub repository for the **Data Science Foundations** course. In this repo, you'll find all the materials you need for our first session.
+Welcome to the GitHub repository for the **Foundations of Data Science** module. In this repo, you'll find all the materials you need for our first session.
 
 ### Key Resources
 
